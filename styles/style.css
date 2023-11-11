@@ -284,10 +284,7 @@
   }
 
   .hero-sec-mobile-image-container {
-    /* width: 250px; */
-    /* height: 350px; */
     width: 85%;
-    /* height: auto; */
     margin: 0 0 0 auto;
   }
 
@@ -321,6 +318,15 @@
 
   .mobile-view-sidebar {
     display: block;
+  }
+
+  .double-line-mobile-divider {
+    width: 17%;
+  }
+
+  .mobile-dividing-horizontal-line {
+    top: 20%;
+    left: 0;
   }
 }
 
